@@ -1,0 +1,10 @@
+Intro to Control Theory Poster
+* "How are autonomous vehicles controlled?"
+* "How do we know if an autonomous car is stable?"
+* "How can we prove autonomy is safe?"
+* Define common terms and jargon
+* Define transfer function -> poles and zeroes -> response chart
+* PID as transfer func?
+* root locus?
+* State space equ?
+* Digital z-plane stability?
