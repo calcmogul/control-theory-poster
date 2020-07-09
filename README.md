@@ -4,4 +4,4 @@ I made this poster for an undergraduate technical writing class I took at Univer
 
 ## Download
 
-A PDF version is available at https://file.tavsys.net/tav/control/Veness-ControlTheory.pdf.
+A PDF version is available at https://file.tavsys.net/control/control-theory-poster.pdf.
